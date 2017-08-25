@@ -19,4 +19,4 @@ update-alternatives --set java /usr/lib/jvm/jdk1.8.0_131/bin/java
 update-alternatives --set javac /usr/lib/jvm/jdk1.8.0_131/bin/javac
 update-alternatives --set javaws /usr/lib/jvm/jdk1.8.0_131/bin/javaws
 source /etc/profile
-source /home/`logname`/buffer/check_version_java.sh
+source /home/`logname`/Downloads/check_version_java.sh
